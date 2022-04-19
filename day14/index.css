@@ -1,0 +1,19 @@
+.Header
+{
+    text-align: center;
+    background-color:#FFEBC1;
+    border-radius: 15px 15px;
+}
+.Center
+{
+    text-align: center;
+    background-color:#D7A86E;
+    height: 25rem;
+    border-radius: 15px 15px;
+}
+.Footer
+{
+    text-align: center;
+    background-color: #FFEBC1;
+    border-radius: 15px 15px;
+}
